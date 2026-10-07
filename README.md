@@ -311,13 +311,7 @@ The user can:
 
 #  Demo
 
-A short demonstration of the retrieval system can be added here.
-
 >  **Demo video:** Coming soon
-
-The demo will show:
-
-**Record digit → Generate embedding → Search FAISS → Retrieve similar recordings**
 
 ---
 
